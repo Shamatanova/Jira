@@ -21,10 +21,9 @@ public class IssuePage extends BaseJiraPage{
         actions.waitForElementClickable("jira.issuePage.linkIssue.blockedResult");
         actions.clickElement("jira.issuePage.linkIssue.blockedResult");
 
-        //actions.waitForElementVisible("jira.issuePage.linkIssue.searchField");
         actions.waitForElementClickable("jira.issuePage.linkIssue.searchField");
         actions.clickElement("jira.issuePage.linkIssue.searchField");
-        actions.typeValueInField(bugKey, "jira.issuePage.linkIssue.searchField");
+        actions.typeValueInField(bugKey, "jira.issuePage.linkIssue.searchIssueInputField");
 
         actions.waitForElementVisible("jira.issuePage.linkIssue.searchMenu");
         actions.waitForElementClickable("jira.issuePage.linkIssue.resultOptions", bugKey);
