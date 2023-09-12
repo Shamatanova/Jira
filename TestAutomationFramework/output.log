@@ -1,0 +1,17 @@
+2023-09-12 17:50:58,888 INFO  [main] Initializing WebDriver
+2023-09-12 17:51:06,574 INFO  [main] Initializing WebDriver
+2023-09-12 17:51:08,846 INFO  [main] Clicking on element jira.singInButton
+2023-09-12 17:51:14,595 INFO  [main] Initializing WebDriver
+2023-09-12 17:51:14,896 INFO  [main] Clicking on element jira.loginPage.username.continueButton
+2023-09-12 17:51:15,246 INFO  [main] Clicking on element jira.loginPage.password.logInButton
+2023-09-12 17:51:15,509 INFO  [main] Initializing WebDriver
+2023-09-12 17:51:20,126 INFO  [main] Clicking on element jira.boardsPage.projectName
+2023-09-12 17:51:30,416 INFO  [main] Clicking on element jira.searchInput
+2023-09-12 17:51:32,138 INFO  [main] Clicking on element jira.searchResult
+2023-09-12 17:51:32,787 INFO  [main] Initializing WebDriver
+2023-09-12 17:51:34,476 INFO  [main] Clicking on element jira.issuePage.linkButton
+2023-09-12 17:51:35,041 INFO  [main] Clicking on element jira.issuePage.linkButton.linkIssue
+2023-09-12 17:51:35,563 INFO  [main] Clicking on element jira.issuePage.linkIssue.type
+2023-09-12 17:51:36,138 INFO  [main] Clicking on element jira.issuePage.linkIssue.blockedResult
+2023-09-12 17:51:36,457 INFO  [main] Clicking on element jira.issuePage.linkIssue.searchField
+2023-09-12 17:51:41,613 INFO  [main] Quitting WebDriver
